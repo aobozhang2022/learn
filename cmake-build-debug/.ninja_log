@@ -1,0 +1,9 @@
+# ninja log v5
+0	353	6959664505587910	CMakeFiles/learning.dir/main.cpp.obj	e5cd339b84e4f2da
+355	498	6959664506993550	learning.exe	f248d200c45a8768
+2	344	6959664829373774	CMakeFiles/learning.dir/main.cpp.obj	e5cd339b84e4f2da
+345	439	6959664830297288	learning.exe	f248d200c45a8768
+2	379	6959665248109961	CMakeFiles/learning.dir/main.cpp.obj	e5cd339b84e4f2da
+380	471	6959665248978266	learning.exe	f248d200c45a8768
+14	615	6959699523541590	CMakeFiles/learning.dir/main.cpp.obj	e5cd339b84e4f2da
+616	888	6959699526245428	learning.exe	f248d200c45a8768
